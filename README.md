@@ -3,4 +3,4 @@
 - 👀 I’m interested in C, Rust, Python, TypeScript and WebAssembly
 - 🌱 I’m currently learning Rust, Digital Image Processing and Video Processing
 - 💞️ I’m looking to collaborate on Video Processing (remux, demux) and Image Processing.
-- 📫 How to reach me: catalao.diego@graduacao.uerj.br
+- 📫 How to reach me: diegohutter@icloud.com
