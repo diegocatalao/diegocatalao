@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegocatalao
 - 🍝 My favorite food is 炒麵 / Chǎo Miàn
-- 👀 I’m interested in C, Rust, Python, TypeScript and WebAssembly
-- 🌱 I’m currently learning Rust, Digital Image Processing and Video Processing
+- 👀 I’m interested in C, Rust, Go, Python and WebAssembly, Digital Image Processing and Video Processing
+- 🌱 I’m currently learning Network Transmission, Security Protocols, Real-Time Data Streaming and Parallel Processing Algorithms
 - 💞️ I’m looking to collaborate on Video Processing (remux, demux) and Image Processing.
 - 📫 How to reach me: diegohutter@icloud.com
